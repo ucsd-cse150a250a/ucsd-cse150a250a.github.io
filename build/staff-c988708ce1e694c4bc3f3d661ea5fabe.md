@@ -64,7 +64,7 @@ downloads: []
 ::::{card}
 :header: Sai Volety
 :footer: svolety@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/sai.jpg
 :alt: Headshot of Sai Volety
 :class: staff-headshot
 :::
