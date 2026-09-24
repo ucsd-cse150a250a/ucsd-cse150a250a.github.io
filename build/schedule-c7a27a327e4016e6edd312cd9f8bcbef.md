@@ -59,7 +59,7 @@ Topics and exact pacing are **tentative** and may shift as the quarter progresse
     :url: lectures/Lecture 01.pdf
     :::
     -->
-  - Course Overview: Probabilistic Models and Modern AI
+  - Admin, Course Overview
   -
 ```
 
