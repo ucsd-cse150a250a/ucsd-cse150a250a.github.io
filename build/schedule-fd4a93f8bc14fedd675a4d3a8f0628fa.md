@@ -137,7 +137,7 @@ No assessments this week.
     :::
     :::{hw}
     :text: HW 1 Discussion Videos
-    :url: discussions/hw1_discussion.md
+    :url: discussions/HW1_discussion.md
     :::
 ```
 
