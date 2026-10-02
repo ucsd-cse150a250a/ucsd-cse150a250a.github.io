@@ -135,6 +135,11 @@ No assessments this week.
     :text: HW 1
     :url: hws/hw1.zip
     :::
+    :::{discussion}
+    :text HW 1 Discussion Videos
+    :url: https://youtu.be/447J4Eti5Ws?si=fykO6V_KXa47dGv9
+    :url: https://youtu.be/KDjr3EKcyZ8?si=WGtsIgwIyovZrlhj
+    :::
 ```
 
 :::
