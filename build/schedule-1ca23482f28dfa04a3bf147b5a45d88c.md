@@ -128,17 +128,13 @@ No assessments this week.
   - Assignment
 * - Tue, Sep 29
   - Mon, Oct 5 by 11:59PM Pacific Time
-  - HW 1
-
-    
+  - 
     :::{hw}
     :text: HW 1
     :url: hws/hw1.zip
     :::
-    :::{hw}
-    :text: HW 1 Discussion Videos
-    :url: discussions/HW1_discussion.md
-    :::
+* - Thu, Oct 1
+  - Discussion pertaining to HW 1 [Video Recording 1](https://youtu.be/447J4Eti5Ws?si=sY_mFfLNTL93Qc4d), [Video Recording 2](https://youtu.be/KDjr3EKcyZ8?si=D7VB46YnDsPtpQl7)
 ```
 
 :::

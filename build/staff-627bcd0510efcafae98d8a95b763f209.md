@@ -24,7 +24,7 @@ downloads: []
 ::::{card}
 :header: Ross David Devito
 :footer: rdevito@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/Ross.jpg
 :alt: Headshot of Ross David Devito
 :class: staff-headshot
 :::
@@ -34,7 +34,7 @@ downloads: []
 ::::{card}
 :header: Shreyas Parameshwar Kadekodi
 :footer: skadekodi@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/Shreyas.jpg
 :alt: Headshot of Shreyas Parameshwar Kadekodi
 :class: staff-headshot
 :::
@@ -44,7 +44,7 @@ downloads: []
 ::::{card}
 :header: Advait Sankar Ramesh
 :footer: a3ramesh@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/advait.jpeg
 :alt: Headshot of Advait Sankar Ramesh
 :class: staff-headshot
 :::
@@ -84,7 +84,7 @@ downloads: []
 ::::{card}
 :header: Mukund Varma Thottankara
 :footer: mvarmathottankara@ucsd.edu
-:::{image} staff-images/portrait_placeholder.png
+:::{image} staff-images/mukund.jpg
 :alt: Headshot of Mukund Varma Thottankara
 :class: staff-headshot
 :::
