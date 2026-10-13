@@ -243,12 +243,12 @@ No assessments this week.
 * - Tue, Oct 13
   - Lecture 6
 
-    <!--
+    
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 06.pdf
     :::
-    -->
+    
   - Approximate Inference - Rejection Sampling, Likelihood Weighting
   - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1) <br> 📹 [Sampling](https://youtu.be/ol0l6aTfb_g?si=aINqQOUVUVdH8HNP)
 
