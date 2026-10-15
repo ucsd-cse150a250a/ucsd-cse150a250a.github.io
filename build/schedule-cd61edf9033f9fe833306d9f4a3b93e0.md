@@ -289,6 +289,8 @@ No assessments this week.
     :text: HW 3
     :url: hws/hw3.zip
     :::
+
+[HW3 Discussion](https://ucsd.zoom.us/rec/share/z7tT5pzSaQF8Y-Z6P3_FtlezukjlOHqlPMKjU3XqSE44OT2lN13A1PdCp5RWeBEW.sZdSKSA9unxqGFTP) Passcode: 5pQrc&aU
 ```
 
 :::
