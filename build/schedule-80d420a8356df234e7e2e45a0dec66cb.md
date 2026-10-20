@@ -353,12 +353,10 @@ Test 1 is next week. Make sure you have scheduled your test!
   - Mon, Oct 26 by 11:59PM Pacific Time
   - HW 4
 
-    <!--
     :::{hw}
     :text: HW 4
     :url: hws/hw4.zip
     :::
-    -->
 ```
 
 :::
