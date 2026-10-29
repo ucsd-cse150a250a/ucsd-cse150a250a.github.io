@@ -252,6 +252,10 @@ No assessments this week.
     :text: pdf
     :url: lectures/Lecture 06.pdf
     :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 06 - post.pdf
+    :::
     
   - Approximate Inference - Rejection Sampling, Likelihood Weighting
   - Poole and Mackworth [9.7](https://artint.info/3e/html/ArtInt3e.Ch9.S7.html#SS3.p1) <br> 📹 [Sampling](https://youtu.be/ol0l6aTfb_g?si=aINqQOUVUVdH8HNP)
@@ -263,6 +267,10 @@ No assessments this week.
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 07.pdf
+    :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 07 - post.pdf
     :::
    
   - Approximate Inference - MCMC
@@ -326,6 +334,10 @@ Test 1 is next week. Make sure you have scheduled your test!
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 08.pdf
+    :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 08 - post.pdf
     :::
     
   - Learning in Bayes Nets - Maximum Likelihood Estimation
@@ -392,6 +404,10 @@ Test 1 is this week!
     :text: pdf
     :url: lectures/Lecture 09.pdf
     :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 09 - post.pdf
+    :::
     
   - Latent Variable Models - Expectation Maximization, EM Example
   -
@@ -399,12 +415,12 @@ Test 1 is this week!
 * - Thu, Oct 29
   - Lecture 10
 
-    <!--
+    
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 10.pdf
     :::
-    -->
+    
   - EM Application, Estimating Noisy-OR Parameters with EM
   -
 ```
@@ -622,7 +638,7 @@ Test 2 opens Friday, Nov 20. Make sure you have scheduled your test.
 :icon: false
 :open:
 
-No new assessments this week.
+No new assessments this week. Final Project Submission is due next Monday.
 :::
 
 
