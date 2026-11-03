@@ -420,6 +420,10 @@ Test 1 is this week!
     :text: pdf
     :url: lectures/Lecture 10.pdf
     :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 10 - post.pdf
+    :::
     
   - EM Application, Estimating Noisy-OR Parameters with EM
   -
