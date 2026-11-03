@@ -491,12 +491,12 @@ Test 1 is this week!
 * - Thu, Nov 5
   - Lecture 12
 
-    <!--
+    
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 12.pdf
     :::
-    -->
+    
   - HMMs - Viterbi, Forward-Backward
   - Jurafsky & Martin - [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 ```
