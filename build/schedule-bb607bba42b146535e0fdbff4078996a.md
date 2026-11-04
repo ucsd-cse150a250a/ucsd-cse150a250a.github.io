@@ -544,12 +544,12 @@ Test 1 is this week!
 * - Tue, Nov 10
   - Lecture 13
 
-    <!--
+    
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 13.pdf
     :::
-    -->
+    
   - HMMs - Learning
   - Jurafsky & Martin - [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
 
