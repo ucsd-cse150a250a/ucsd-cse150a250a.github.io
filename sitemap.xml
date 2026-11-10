@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://pre.render/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>http://pre.render</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/schedule</loc>
+    <loc>http://pre.render/schedule</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/syllabus</loc>
+    <loc>http://pre.render/syllabus</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/office-hours</loc>
+    <loc>http://pre.render/office-hours</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/staff</loc>
+    <loc>http://pre.render/staff</loc>
   </url>
 </urlset>
