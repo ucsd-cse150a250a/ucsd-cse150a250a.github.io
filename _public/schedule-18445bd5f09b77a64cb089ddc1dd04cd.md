@@ -492,6 +492,11 @@ Test 1 is this week!
     :text: pdf
     :url: lectures/Lecture 11.pdf
     :::
+
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 11-post.pdf
+    :::
     
   - Hidden Markov Models (HMMs), Forward
   - Jurafsky & Martin - [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
@@ -503,6 +508,10 @@ Test 1 is this week!
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 12.pdf
+    :::
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 12 - post.pdf
     :::
     
   - HMMs - Viterbi, Forward-Backward
@@ -557,6 +566,11 @@ Test 1 is this week!
     :text: pdf
     :url: lectures/Lecture 13.pdf
     :::
+
+    :::{slides}
+    :text: annotated pdf
+    :url: lectures/Lecture 13 - post.pdf
+    :::
     
   - HMMs - Learning
   - Jurafsky & Martin - [Hidden Markov Models](https://web.stanford.edu/~jurafsky/slp3/A.pdf)
@@ -564,14 +578,14 @@ Test 1 is this week!
 * - Thu, Nov 12
   - Lecture 14
 
-    <!--
+    
     :::{slides}
     :text: pdf
     :url: lectures/Lecture 14.pdf
     :::
-    -->
+    
   - Reinforcement Learning (RL), Markov Decision Processes
-  - Ch1, Ch3 [Sutton & Barto, 2018](http://incompleteideas.net/book/the-book-2nd.html) <br> 📹 [MatchBox TicTacToe](https://youtu.be/R9c-_neaxeU?si=KTksrJ7WqEViw2qb)
+  - Ch1, Ch3 [Sutton & Barto, 2018](http://incompleteideas.net/book/the-book-2nd.html) <br> [MENACE](https://people.csail.mit.edu/brooks/idocs/matchbox.pdf) <br> 📹 [MatchBox TicTacToe](https://youtu.be/R9c-_neaxeU?si=KTksrJ7WqEViw2qb) 
 ```
 
 :::
